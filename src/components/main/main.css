@@ -1,0 +1,14 @@
+.discover{
+    padding: 10px;
+}
+
+.shop{
+    text-transform: uppercase;
+    letter-spacing: 0.75em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.furniturePic{
+    width: 100%;
+}

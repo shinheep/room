@@ -1,0 +1,15 @@
+.header{
+    background-image: url('../../../public/images/desktop-image-hero-1.jpg');
+    min-height: 38vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -5px;
+}
+
+.title{
+    padding-top: 20px;
+    margin: 0px;
+    border: 0px;
+    color: white;
+    text-align: center;
+}
